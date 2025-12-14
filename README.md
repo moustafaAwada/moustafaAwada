@@ -1,92 +1,86 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-awad.mostafa-awad">
-
+<!-- Main Heading -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mostafa+Awad;Flutter+Developer+at+Digithup&center=true&size=30">
-  </a>
+  Hi there, I'm <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">Mostafa Awad</a> 👋
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn Profile">
-      <img width="22" src="images/linkedin.svg"> LinkedIn
-    </a>
-  </code>
-  <code>
-    <a href="https://github.com/mostafa-awad" title="GitHub Profile">
-      <img width="22" src="images/github.svg"> GitHub
-    </a>
-  </code>
-</h5>
-
-<br>
-
+<!-- Social Links -->
 <p align="center">
-  Hi, I'm <b>Mostafa Awad</b>, Flutter Developer working at <b>Digithup</b> 🚀
-  <br><br>
-  📱 Specialized in building cross-platform mobile applications using Flutter
-  <br>
-  🔥 Experienced in integrating REST APIs and Firebase
-  <br>
-  💼 Currently working as a Flutter Developer at Digithup
-  <br>
-  🌱 Always improving my skills in clean architecture and performance optimization
-  <br>
-  💬 Ask me about Flutter, Dart, Firebase, or mobile app development
-  <br>
-  📫 How to reach me: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
+  <a href="YOUR_PORTFOLIO">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://github.com/mostafa-awad">GitHub</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 <hr>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
-<br>
+<!-- About Me -->
+💙 Passionate about <strong>Flutter & Mobile Development</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212897744-7a8d4f3b-8a5b-4db2-a23f-7c3c7a30f6c2.gif"
+     min-width="300px" max-width="300px" width="330px" align="right" />
 
-<p align="center">
-  <code><img title="Flutter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
-  <code><img title="Dart" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
-  <code><img title="Firebase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
-  <code><img title="REST API" height="25" src="images/api.png"></code>
-  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-  <code><img title="Android Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></code>
-  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-  <code><img title="Postman" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"></code>
+📱 Flutter Developer at <strong>Digithup</strong>  
+🔥 Building scalable & clean mobile apps  
+🔗 Strong experience with <strong>REST APIs & Firebase</strong>  
+🧠 Interested in Clean Architecture & Performance  
+💬 Ask me about <strong>Flutter, Dart, Firebase, APIs</strong>  
+⚡ Fun fact: <strong>I love turning ideas into apps</strong>  
+
+---
+
+<details>
+  <summary><b>🛠 Tech Stack</b></summary>
+  <br>
+
+### 🚀 Languages
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-<hr>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=mostafa-awad&show_icons=true&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="390" src="https://streak-stats.demolab.com/?user=mostafa-awad&theme=react&hide_border=true" />
-  </a>
+### 📱 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bloc-00BFA6?style=for-the-badge" />
 </p>
 
-<br>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-awad&layout=compact&theme=react&hide_border=true" />
+### 🔥 Backend & Services
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
 </p>
 
-<hr>
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
-<br>
+</details>
 
-<div width="100%" align="center">
-  <a href="https://github.com/mostafa-awad/YOUR-FLUTTER-PROJECT">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-awad&repo=YOUR-FLUTTER-PROJECT&theme=react&hide_border=true">
-  </a>
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-awad&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostafa-awad&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-awad&layout=compact&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-awad&theme=react" />
 </div>
 
-<br>
+---
 
-<h4 align="center">
-  <a href="https://github.com/mostafa-awad?tab=repositories">🔎 Show More Repositories 🔍</a>
-</h4>
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mostafa-awad&theme=onedark&margin-w=10" />
+</div>
+
+---
+
+## 👀 Profile Views
+<div align="left">
+  <img src="https://visitcount.itsvg.in/api?id=mostafa-awad&icon=0&color=0" />
+</div>
