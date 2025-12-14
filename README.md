@@ -4,13 +4,9 @@
 <p> <img src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="profile views" /> </p>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="#">Mostafa Awad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center">Hi there, I'm <a href="#">Mostafa Awad</a> </h1>
 
 <br />
-
- <div>
-  <a href="#"><img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300" /></a>
-</div>
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" align="center" /> Actively learning & building projects since **2022** 🇪🇬
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> **Computer Science Student**
