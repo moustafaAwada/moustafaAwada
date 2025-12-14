@@ -15,7 +15,7 @@
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> Open to collaborate on **Mobile Apps & Real Projects**
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="30" align=center /> **2025 Goals:** Become a **Professional Flutter Developer** & enter the **Job Market**
 
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px">Let's Connect!</h1>
+<h1>🤝 Let's Connect!</h1>
 
 <table align="" class="table table-dark">
   <tr bg-dark>
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology</h1>
+<h1>🛠️ Tools & Technology</h1>
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
@@ -83,7 +83,7 @@
   </tr>
 </table>
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="53" height="53" />GitHub Stats</h1>
+<h1>🔥 GitHub Stats</h1>
 
 <div align="center">
 
