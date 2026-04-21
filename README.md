@@ -130,11 +130,15 @@ class MostafaAwad extends FlutterDeveloper {
 
 <br/>
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
+<!-- SNAKE ANIMATION -->
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostafa-awad&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafa-awad/mostafa-awad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafa-awad/mostafa-awad/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mostafa-awad/mostafa-awad/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
