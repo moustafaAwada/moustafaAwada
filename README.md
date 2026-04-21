@@ -19,7 +19,7 @@
 ---
 
 <!-- ABOUT ME + ANIMATED CODE BLOCK -->
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
 
 ### 👨‍💻 About Me
 
