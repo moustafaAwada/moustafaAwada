@@ -158,9 +158,7 @@ class MostafaAwad extends FlutterDeveloper {
 
 <br/>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-awad.mostafa-awad&left_color=0a192f&right_color=64ffda&left_text=Total%20Visitors" />
-</p>
+
 
 ---
 
