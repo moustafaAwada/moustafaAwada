@@ -77,7 +77,7 @@ class MostafaAwad extends FlutterDeveloper {
 
 ### 🧠 Languages & Concepts
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,python,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,cpp&theme=dark" />
   &nbsp;<img src="https://img.shields.io/badge/OOP-0a192f?style=for-the-badge&logo=databricks&logoColor=64ffda"/>
   &nbsp;<img src="https://img.shields.io/badge/SOLID-0a192f?style=for-the-badge&logo=databricks&logoColor=64ffda"/>
   &nbsp;<img src="https://img.shields.io/badge/Clean%20Arch-0a192f?style=for-the-badge&logo=databricks&logoColor=64ffda"/>
@@ -158,7 +158,9 @@ class MostafaAwad extends FlutterDeveloper {
 
 <br/>
 
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-awad.mostafa-awad&left_color=0a192f&right_color=64ffda&left_text=Total%20Visitors" />
+</p>
 
 ---
 
