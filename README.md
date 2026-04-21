@@ -130,13 +130,36 @@ class MostafaAwad extends FlutterDeveloper {
 
 <br/>
 
-<!-- 3D CONTRIBUTION CALENDAR -->
-## 📅 3D Contribution Calendar
+<!-- FUN FACTS -->
+## ⚡ Fun Facts About Me
+
+<table align="center">
+  <tr>
+    <td>☕</td>
+    <td>I debug better with coffee in hand</td>
+  </tr>
+  <tr>
+    <td>🌙</td>
+    <td>Most productive after midnight</td>
+  </tr>
+  <tr>
+    <td>📱</td>
+    <td>I judge apps by their UI before their features</td>
+  </tr>
+  <tr>
+    <td>🧩</td>
+    <td>Clean code is not a preference — it's a habit</td>
+  </tr>
+  <tr>
+    <td>🇪🇬</td>
+    <td>Proud Egyptian developer building for the world</td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <a href="https://github.com/mostafa-awad">
-    <img src="https://github-profile-3d-contrib.vercel.app/api?username=mostafa-awad&theme=tokyo-night" alt="3D Contribution Calendar" />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-awad.mostafa-awad&left_color=0a192f&right_color=64ffda&left_text=Total%20Visitors" />
 </p>
 
 ---
