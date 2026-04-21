@@ -130,15 +130,11 @@ class MostafaAwad extends FlutterDeveloper {
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
+<!-- DEV JOKE -->
+## 😂 Dev Joke of the Day
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafa-awad/mostafa-awad/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafa-awad/mostafa-awad/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mostafa-awad/mostafa-awad/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2364ffda&aColor=%23a8b2d8" alt="Dev Joke" />
 </p>
 
 ---
